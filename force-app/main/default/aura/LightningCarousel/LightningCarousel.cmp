@@ -1,7 +1,7 @@
 <aura:component implements="flexipage:availableForRecordHome,flexipage:availableForAllPageTypes" access="global">
         <lightning:carousel>
                 <lightning:carouselImage
-                   src = "{!$Resource.Module1}"
+                   src = "{!$Resource.Module1}"  
                    header = "Trailhead Module 1"
                    description = "Trailhead Module 1"
                    alternativeText = "Trailhead Module 1"></lightning:carouselImage>
