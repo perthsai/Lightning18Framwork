@@ -4,10 +4,10 @@
 
 package.xml
 #Specify a specific folder to ignore
-\force-app\main\default\classes
+\force-app\main\default/aura\SalesLeaderBoard.cmp
 \force-app\main/default\flexipages
 \force-app\main\default\flowDefinitions
-\force-app\main\default\Lead
+\force-app\main\default\Lead 
 
 #Specify a specific file from aura to ignore
 \force-app\main\default\displayDetails
@@ -15,4 +15,4 @@ package.xml
 \force-app\main\default\SalesLeaderBoardDetail
 \force-app\main\default\Toaster
 \force-app\main\default\ToasterApp
-\force-app\main\default\TreeGridDemo   
+\force-app\main\default\TreeGridDemo      
