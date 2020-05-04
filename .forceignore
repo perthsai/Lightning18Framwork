@@ -4,7 +4,7 @@
 
 package.xml
 #Specify a specific folder to ignore
-\force-app\main\default/aura\SalesLeaderBoard.cmp
+\force-app\main\default/aura\SalesLeaderBoard
 \force-app\main/default\flexipages
 \force-app\main\default\flowDefinitions
 \force-app\main\default\Lead 
