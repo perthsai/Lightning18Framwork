@@ -17,5 +17,11 @@
                    description = "Trailhead Module 3"
                    alternativeText = "Trailhead Module 3">
                </lightning:carouselImage>
+               <lightning:carouselImage
+                   src = "{!$Resource.Sai}"
+                   header = "Trailhead Module 3"
+                   description = "Trailhead Module 3"
+                   alternativeText = "Trailhead Module 3">
+               </lightning:carouselImage>
               </lightning:carousel>
 </aura:component>    
